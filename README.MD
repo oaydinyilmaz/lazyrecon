@@ -59,24 +59,3 @@ This tool allows you to gather some information that should help you identify wh
 - Recommended to run on vps with 1VCPU and 2GB ram.
 
 
-
-# Authors and Thanks
-This script makes use of tools developped by the following people
-- [Tom Hudson - Tomonomnom](https://github.com/tomnomnom)
-- [Ahmed Aboul-Ela - Aboul3la](https://github.com/aboul3la)
-- [B. Blechschmidt - Blechschmidt](https://github.com/blechschmidt)
-- [Thomas D. - Maaaaz](https://github.com/maaaaz)
-- [Daniel Miessler - Danielmiessler](https://github.com/danielmiessler)
-
-
-# TO DO
-- Report only mode to generate reports for old dirsearch data
-- SubDomain exclusion
-
-
-
-
-
-**Warning:** This code was originally created for personal use, it generates a substantial amount of traffic, please use with caution. 
-
-
